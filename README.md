@@ -7,8 +7,8 @@
 
 
 <div float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight" height="200" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight" height="180" /> 
 </div>
 
 <div>
