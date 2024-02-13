@@ -1,5 +1,5 @@
 # Olá! sou o Isaias Candido <img height="30px" style="margin-top: 5px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
-#### Editando... Desculpe o incômodo mas quando eu terminar vai valer a pena 🤓
+#### 🪛 Editando... Desculpe o incômodo mas quando eu terminar vai valer a pena 🤓
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20c997" />
