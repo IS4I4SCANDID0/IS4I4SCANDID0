@@ -1,32 +1,35 @@
 # Olá! sou o Isaias Candido <img height="30px" style="margin-top: 5px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
-#### 🪛 Editando... Desculpe o incômodo mas quando eu terminar vai valer a pena 🤓
-<br>
-<br>
+#### 🪛 Dev trabalhando... Desculpe o incômodo mas quando eu terminar vai valer a pena!! 🤓
+
 <img src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20c997" />
 
-### Sobre mim 
+<br>
+
+# Sobre mim 
 
 Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🚀🧑🏻‍💻
 
+<br>
 
-### Minhas epecialidades
+# Tech stacks
 
 
 
 #### 🛠️ Linguagens
-<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" /> &nbsp; <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/JavaScript-141414?style=flat&logo=javascript&logoColor=F7DF1E" /> &nbsp; <img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
 <br>
 
 #### 🛠️ Tecnologias front-end
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" /> &nbsp; <img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" /> &nbsp; <img height="25" src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Framer_Motion-black?style=plastic&logo=Framer&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=Axios&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=61DAFB" /> &nbsp; <img src="https://img.shields.io/badge/Next-000000?style=plastic&logo=Next.js&logoColor=white" /> 
+<img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" /> &nbsp;
+<img height="28" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Sass-bf4080?style=flat&logo=sass&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=Framer&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> &nbsp; <img height="28" src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /> 
 
 <br>
 
 ### ⚙️ GitHub Analytics
 <div float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180em" /> 
 </div>
 
 <br>
