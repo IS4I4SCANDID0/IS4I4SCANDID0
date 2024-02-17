@@ -5,24 +5,24 @@
 
 <br>
 
-# Sobre mim 
+### Sobre mim 
 
 Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🚀🧑🏻‍💻
 
 <br>
 
-# Tech stacks
+### Tech stacks
 
 
 
 #### 🛠️ Linguagens
-<img height="28" src="https://img.shields.io/badge/JavaScript-141414?style=flat&logo=javascript&logoColor=F7DF1E" /> &nbsp; <img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F0DB4F" /> &nbsp; <img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=4B8BBE" />
 
 <br>
 
 #### 🛠️ Tecnologias front-end
-<img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" /> &nbsp;
-<img height="28" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Sass-bf4080?style=flat&logo=sass&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=Framer&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> &nbsp; <img height="28" src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /> 
+<img height="28" src="https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/styled--components-BF4F74?style=flat&logo=styled-components&logoColor=white" /> &nbsp;
+<img height="28" src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Sass-bf4080?style=flat&logo=sass&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=Framer&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> &nbsp; <img height="28" src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /> 
 
 <br>
 
@@ -38,9 +38,18 @@ Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando no
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-c-dev-full-stack)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaiasmiranda_c/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:isaiascandido92@outlook.com)
+<div>
+  <a href="https://www.linkedin.com/in/isaias-c-dev-full-stack" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/isaiasmiranda_c/" target="_blank">
+    
+  </a>
+</div>  
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-F56040?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isaiasmiranda_c/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:isaiascandido92@outlook.com)
 
 <br>
 <br>
