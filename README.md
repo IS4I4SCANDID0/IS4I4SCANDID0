@@ -1,19 +1,23 @@
 # Olá! sou o Isaias Candido <img height="30px" style="margin-top: 5px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
 #### 🪛 Dev trabalhando... Desculpe o incômodo mas quando eu terminar vai valer a pena!! 🤓
 
+
 <img src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20c997" />
 
 <br>
 
 ### Sobre mim 
 
-Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🚀🧑🏻‍💻
+Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🧑🏻‍💻🚀
 
 <br>
 
-### Tech stacks
+### Principais stacks
 
 
+Entre no universo das tecnologias que moldam o meu conhecimento. Este é um convite para explorar, aprender e se inspirar. Cada tecnologia aqui mencionada é um pilar que sustenta meu conhecimento e minha paixão por tecnologia e inovação. Cada uma delas representa um degrau que subi na escada do meu sucesso acadêmico e profissional, uma conquista que me orgulho de compartilhar!  
+
+<br>
 
 #### 🛠️ Linguagens
 <img height="28" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F0DB4F" /> &nbsp; <img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=4B8BBE" />
@@ -26,36 +30,58 @@ Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando no
 
 <br>
 
+#### 🛠️ Tecnologias back-end
+<img height="28" src="https://img.shields.io/badge/Node.js-303030?flat&logo=node.js&logoColor=3C873A"  /> &nbsp; <img height="28" src="https://img.shields.io/badge/Express.js-000000?&logo=Express&style=flat"/> &nbsp; <img height="28" src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=FFFFFF"/>
+
+<br>
+
 ### ⚙️ GitHub Analytics
-<div float="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180em" /> 
+
+  <br>
+
+  <img />
 </div>
 
 <br>
 
-[![Isaias Candido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Isaias Candido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true)](https://github.com/IS4I4SCANDID0/github-readme-activity-graph)
 
 <br>
 
+#### Contatos e redes sociais
 <div>
   <a href="https://www.linkedin.com/in/isaias-c-dev-full-stack" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/isaiasmiranda_c/" target="_blank">
-    
+    <img  height="28" src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=000000" />
+  </a>
+  &nbsp;
+  <a href="mailto:isaiascandido92@outlook.com" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
 </div>  
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-F56040?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isaiasmiranda_c/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:isaiascandido92@outlook.com)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-F56040?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isaiasmiranda_c/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:isaiascandido92@outlook.com)-->
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!-- <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=red" /> -->
 
 <div align="right">
