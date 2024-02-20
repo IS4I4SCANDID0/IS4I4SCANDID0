@@ -2,7 +2,7 @@
 #### 🪛 Dev trabalhando... Desculpe o incômodo mas quando eu terminar vai valer a pena!! 🤓
 
 
-<img src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20c997" /> &nbsp; 
+<img height="25" src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20C997" /> &nbsp; 
 
 <br>
 
@@ -61,21 +61,16 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 
 <br>
 
-#### Contato e redes sociais
+### 📲 Contato e redes sociais
 <div>
-  <a href="https://www.linkedin.com/in/isaias-c-dev-full-stack" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/isaias-c-dev-full-stack" target="_blank"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/isaiasmiranda_c/" target="_blank">
-    <img  height="28" src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=000000" />
-  </a>
+  <a href="https://www.instagram.com/isaiasmiranda_c/" target="_blank"><img height="28" src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=000000" /></a>
   &nbsp;
-  <
+  <a href="mailto:isaiascandido92@outlook.com" target="_blank"><img height="28" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:isaiascandido92@outlook.com" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
-  </a>
+  <a href="https://api.whatsapp.com/send?phone=+55 9 91823188&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub%20na%20internet%2C%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os
+" target="_blank"><img height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </div>  
 
 
@@ -101,6 +96,10 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
   <img src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" />
 </div>
 
+
+<br>
+
+<img height="20" src="https://img.shields.io/badge/Made%20with-Markdown-20C997.svg" />
 <!--https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white
 https://img.shields.io/badge/Git-black?style=flat&logo=GIT&logoColor=f76707
 https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=Framer&logoColor=white -->
