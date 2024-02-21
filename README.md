@@ -74,8 +74,8 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
   &nbsp;
   <a href="mailto:isaiascandido92@outlook.com" target="_blank"><img height="28" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a>
   &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+55 9 91823188&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub,%20e%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os
-" target="_blank"><img height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=+55 9 91823188&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub,%20e%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os" target="_blank">  
+  <img height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </div>  
 
 
