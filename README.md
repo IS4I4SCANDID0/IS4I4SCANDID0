@@ -2,7 +2,7 @@
 #### 🪛 Dev trabalhando... Desculpe o incômodo mas quando eu terminar vai valer a pena!! 🤓
 
 
-<img height="25" src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20C997" /> &nbsp; <a href="portefólio-pessoal-v2.vercel.app" target="_blank"><img height="25" src="https://img.shields.io/badge/Veja%20meu%20trabalho-Link%20-20C997" /></a>
+<img height="25" src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20C997" /> &nbsp; <a href="https://portifolio-pessoal-v2.vercel.app/" target="_blank"><img height="25" src="https://img.shields.io/badge/Veja%20meu%20trabalho-Link%20-20C997" /></a>
 
 <br>
 
