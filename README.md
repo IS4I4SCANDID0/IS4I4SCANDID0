@@ -31,7 +31,12 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 
 #### 🛠️ Tecnologias back-end
-<img height="28" src="https://img.shields.io/badge/Node.js-303030?flat&logo=node.js&logoColor=3C873A"  /> &nbsp; <img height="28" src="https://img.shields.io/badge/Express.js-000000?&logo=Express&style=flat"/> &nbsp; <img height="28" src="https://img.shields.io/badge/{📄}_TypeORM-E83524?style=flat" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=FFFFFF"/> &nbsp; <img height="28" src="https://img.shields.io/badge/Django%20REST%20framework-A30000?style=flat&logo=django&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />  &nbsp; <img height="28" src="https://img.shields.io/badge/Sqlite3-003B57?style=flat&logo=sqlite&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/DBeaver-53250C?style=flat&logo=dbeaver&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/Node.js-303030?flat&logo=node.js&logoColor=3C873A"  /> &nbsp; <img height="28" src="https://img.shields.io/badge/Express.js-000000?&logo=Express&style=flat"/> &nbsp; <img height="28" src="https://img.shields.io/badge/{📄}_TypeORM-E83524?style=flat" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=FFFFFF"/> &nbsp; <img height="28" src="https://img.shields.io/badge/Django%20REST%20framework-A30000?style=flat&logo=django&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />  &nbsp; <img height="28" src="https://img.shields.io/badge/Sqlite3-003B57?style=flat&logo=sqlite&logoColor=white" />
+
+<br>
+
+#### 🛠️ Ferramentas auxiliares para o back-end
+<img height="28" src="https://img.shields.io/badge/DBeaver-53250C?style=flat&logo=dbeaver&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white" /> &nsbp; <img height="28" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 
 <br>
 
