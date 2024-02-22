@@ -1,4 +1,4 @@
-# Olá! Sou o Isaias Candido <img height="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
+# Olá! <img height="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Sou o Isaias Candido
 #### 🪛 Dev trabalhando... Desculpe o incômodo mas quando eu terminar vai valer a pena!! 🤓
 
 
@@ -31,7 +31,7 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 
 #### 🛠️ Tecnologias back-end
-<img height="28" src="https://img.shields.io/badge/Node.js-303030?flat&logo=node.js&logoColor=3C873A"  /> &nbsp; <img height="28" src="https://img.shields.io/badge/Express.js-000000?&logo=Express&style=flat"/> &nbsp; <img height="28" src="https://img.shields.io/badge/{📄}_TypeORM-E83524?style=flat" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=FFFFFF"/> &nbsp; <img height="28" src="https://img.shields.io/badge/Django%20REST%20framework-A30000?style=flat&logo=django&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />  &nbsp; <img height="28" src="https://img.shields.io/badge/Sqlite3-003B57?style=flat&logo=sqlite&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/DBeaver-53250C?style=flat&logo=dbeaver&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/Node.js-303030?flat&logo=node.js&logoColor=3C873A"  /> &nbsp; <img height="28" src="https://img.shields.io/badge/Express.js-000000?&logo=Express&style=flat"/> &nbsp; <img height="28" src="https://img.shields.io/badge/{📄}_TypeORM-E83524?style=flat" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=FFFFFF"/> &nbsp; <img height="28" src="https://img.shields.io/badge/Django%20REST%20framework-A30000?style=flat&logo=django&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />  &nbsp; <img height="28" src="https://img.shields.io/badge/Sqlite3-003B57?style=flat&logo=sqlite&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/DBeaver-53250C?style=flat&logo=dbeaver&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white" />
 
 <br>
 
@@ -40,8 +40,8 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 
 <br>
 
-#### 🛠️ Gerenciamento de dependências e compiladores
-<img height="28" src="https://img.shields.io/badge/npm-FFFFFF?style=flat&logo=npm&logoColor=red" /> &nbsp; <img height="28" src="https://img.shields.io/badge/yarn-FFFFFF?style=flat&logo=yarn&logoColor=514C87" /> &nbsp; <img height="28" src="https://img.shields.io/badge/babel.js-323330?style=flat&logo=babel&logoColor=F0DB4F" /> 
+#### 🛠️ Gerenciamento de dependências
+<img height="28" src="https://img.shields.io/badge/npm-FFFFFF?style=flat&logo=npm&logoColor=red" /> &nbsp; <img height="28" src="https://img.shields.io/badge/yarn-FFFFFF?style=flat&logo=yarn&logoColor=514C87" />
 
 <br>
 
@@ -51,7 +51,7 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 
 ### ⚙️ GitHub Analytics
-<div align="left" width="100%">
+<!-- <div align="left" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180em" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180em" width="50%"/> 
 
@@ -62,7 +62,15 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 
 <br>
 
-[![Isaias Candido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true)](https://github.com/IS4I4SCANDID0/github-readme-activity-graph)
+[![Isaias Candido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true)](https://github.com/IS4I4SCANDID0/github-readme-activity-graph) -->
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180em" width="500em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180em" width="500em" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" />
+</div>
+
+
 
 <br>
 
