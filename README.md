@@ -64,10 +64,10 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 
 [![Isaias Candido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true)](https://github.com/IS4I4SCANDID0/github-readme-activity-graph) -->
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180em" width="600em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180em" width="600em" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" />
+<div width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="200em" width="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="200em" width="" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" height="320em" />
 </div>
 
 
