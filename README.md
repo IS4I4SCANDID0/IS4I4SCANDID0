@@ -60,9 +60,9 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 
 
 <div width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="200em" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" height="320em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="195em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="195em" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" height="311em" />
 </div>
 
 
@@ -80,7 +80,7 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
   <a href="https://api.whatsapp.com/send?phone=+55 9 91823188&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub,%20e%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os" target="_blank">  
   <img height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
   &nbsp;
-  <a href="https://t.me/+55 32 9 91829188?text=Venho%20por%20meio%20do%20GitHub,%20gosataria%20de%20conhecer%20mehlor%20seus%20serviços" target="_blank"><img heght="28" src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Isaias_Candido?text=Venho%20por%20meio%20do%20GitHub,%20gosataria%20de%20conhecer%20mehlor%20seus%20serviços" target="_blank"><img height="28" src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" /></a>
 </div>  
 
 <br>
