@@ -12,7 +12,7 @@ Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando no
 
 <br>
 
-### Principais stacks
+### Principais skills
 
 
 Entre no universo das tecnologias que moldam o meu conhecimento. Este é um convite para explorar, aprender e se inspirar. Cada tecnologia aqui mencionada é um pilar que sustenta meu conhecimento e minha paixão por tecnologia e inovação. Cada uma delas representa um degrau que subi na escada do meu sucesso acadêmico e profissional, uma conquista que me orgulho de compartilhar!  
@@ -36,7 +36,7 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 
 #### 🛠️ Ferramentas auxiliares para o back-end
-<img height="28" src="https://img.shields.io/badge/DBeaver-53250C?style=flat&logo=dbeaver&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white" /> &nsbp; <img height="28" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/DBeaver-53250C?style=flat&logo=dbeaver&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/draw.io-orange?style=flat" />
 
 <br>
 
@@ -56,18 +56,8 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 
 ### ⚙️ GitHub Analytics
-<!-- <div align="left" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="180em" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="180em" width="50%"/> 
+Aqui você pode ver as minha estatíticas somente com base meus repositórios públicos. Lembrete estou consumindo uma API externa feita por terceiros então se o não estiver motrando as imagens corretamente por favor atualize a página. 
 
-  <br>
-
-  <img />
-</div>
-
-<br>
-
-[![Isaias Candido's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true)](https://github.com/IS4I4SCANDID0/github-readme-activity-graph) -->
 
 <div width="100%">
     <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="200em" />
@@ -89,12 +79,10 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
   &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+55 9 91823188&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub,%20e%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os" target="_blank">  
   <img height="28" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://t.me/+55 32 9 91829188?text=Venho%20por%20meio%20do%20GitHub,%20gosataria%20de%20conhecer%20mehlor%20seus%20serviços" target="_blank"><img heght="28" src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" /></a>
 </div>  
 
-
-<!--[![Instagram](https://img.shields.io/badge/Instagram-F56040?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isaiasmiranda_c/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:isaiascandido92@outlook.com)-->
-
 <br>
 <br>
 <br>
@@ -103,21 +91,21 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-<!-- <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=red" /> -->
 
 <div align="right">
-<!--   ![54a4ca04f56e5b1d91c43f10744a9046](https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90) -->
-  <img src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" />
+  <img src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" />  
 </div>
 
+ <div align="left">
+    <h3>Porque esse gif?<h3> <br> 
+      Assim como o personagem principal desse anime, não muito conhecido, o Gash (ou Zatch aqui no Brasil) Bell eu sou determinado, persistente, não desisto dos meus sonhos, e estou determinado a 
+      alcançar o meu potencial máximo! Por isso me inspiro nele!
+  </div>
 
 <br>
 
-<img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-20C997.svg" />
+  <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" />
+
 <!--https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white
 https://img.shields.io/badge/Git-black?style=flat&logo=GIT&logoColor=f76707
 https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=Framer&logoColor=white -->
