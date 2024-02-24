@@ -60,9 +60,9 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 
 
 <div width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="195em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="195em" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" height="311em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=IS4I4SCANDID0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=030118&include_all_commits=true&count_private=true" alt="Stats de Isaias" height="195rem" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IS4I4SCANDID0&layout=compact&theme=tokyonight&hide_border=true&bg_color=030118" alt="Linguagens mais usadas por Isaias" height="195rem" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IS4I4SCANDID0&bg_color=030118&color=0aebb3&line=07a27b&point=0aebb3&area=true&hide_border=true" alt="Gráfico de contribuições de Isaias" height="311rem" />
 </div>
 
 
@@ -84,27 +84,33 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 </div>  
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<!-- <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" /> <div align="right">
+  <img src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" />   -->
 
-<div align="right">
-  <img src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" />  
-</div>
 
- <div align="left">
+ <!-- <div align="left" width="50%">
     <h3>Porque esse gif?<h3> <br> 
-      Assim como o personagem principal desse anime, não muito conhecido, o Gash (ou Zatch aqui no Brasil) Bell eu sou determinado, persistente, não desisto dos meus sonhos, e estou determinado a 
-      alcançar o meu potencial máximo! Por isso me inspiro nele!
+       <p>     
+          Assim como o personagem principal desse anime, não muito conhecido, o Gash (ou Zatch aqui no Brasil) Bell eu sou determinado, persistente, não desisto dos meus sonhos, e estou determinado a 
+          alcançar o meu potencial máximo! Por isso me inspiro nele!
+       </p> 
+  </div> -->
+  <br>
+  <br>
+  
+  <div alingn="right" width="300em">
+    <img align="right" src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" alt="Gif do Zatch Bell BAOH ZAKERUGA!!">  
   </div>
+<h3> 🤔 Porque esse gif? </h3>
+<p align="left" width="300px" >Assim como o personagem principal desse anime, não muito conhecido, o Gash Bell(ou Zatch Bell aqui no Brasil) eu sou determinado, persistente, não desisto dos meus sonhos, e estou determinado a alcançar o meu potencial máximo! Por isso me inspiro nele!</p>
 
 <br>
 
-  <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" />
+<img align="left" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" />
+
+
+<br>
+
 
 <!--https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white
 https://img.shields.io/badge/Git-black?style=flat&logo=GIT&logoColor=f76707
