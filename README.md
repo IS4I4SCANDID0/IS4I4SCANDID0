@@ -1,5 +1,6 @@
 # Olá! <img height="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> Sou o Isaias Candido
 
+<br>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=IS4I4SCANDID0&color=20C997" /> &nbsp; <a href="https://portifolio-pessoal-v2.vercel.app/" target="_blank"><img height="25" src="https://img.shields.io/badge/Veja%20meu%20trabalho-Link%20-20C997" /></a>
 
@@ -7,7 +8,7 @@
 
 ### Sobre mim 
 
-Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🧑🏻‍💻🚀
+Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Um fato sobre mim tenho a música como hobbie, sou músico nas horas em que não estou escrvendo código. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🧑🏻‍💻🚀
 
 <br>
 
