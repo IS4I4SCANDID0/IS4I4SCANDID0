@@ -84,33 +84,18 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 </div>  
 
 <br>
-<!-- <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" /> <div align="right">
-  <img src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" />   -->
 
 
- <!-- <div align="left" width="50%">
-    <h3>Porque esse gif?<h3> <br> 
-       <p>     
-          Assim como o personagem principal desse anime, não muito conhecido, o Gash (ou Zatch aqui no Brasil) Bell eu sou determinado, persistente, não desisto dos meus sonhos, e estou determinado a 
-          alcançar o meu potencial máximo! Por isso me inspiro nele!
-       </p> 
-  </div> -->
-  <br>
-  <br>
-  <hr heigth="4px">
-  <br>
+  #
   <br>
   
-  <div alingn="right" width="300em">
+### 🤔 Porque esse gif?
+  <div align="center" height="380em">
     <img align="right" src="https://github.com/IS4I4SCANDID0/IS4I4SCANDID0/assets/114521368/75f867ce-1720-44b2-b098-2866ea43db90" alt="Gif do Zatch Bell BAOH ZAKERUGA!!">  
   </div>
-
-
-### Easter Egg (referência)
   
-##### 🤔 Porque esse gif? 
 <div align="left" height="90em" width="90em"> 
-    <p>Assim como o personagem principal desse anime, não muito conhecido, o Gash Bell(ou Zatch Bell, como é conhecido aqui no Brasil) eu tenho uma determinação inabalável e uma persistência         incansável. Estou comprometido em alcançar meu potencial máximo e nunca desisto dos meus sonhos. É essa resiliência e determinação que me inspiram ao ver esse personagem!
+    <p>Assim como o personagem principal desse anime, não muito conhecido, o Gash Bell(ou Zatch Bell, como é chamado aqui no Brasil) eu tenho uma determinação inabalável e uma persistência incansável. Estou comprometido em alcançar meu potencial máximo e nunca desisto dos meus sonhos. Coloquei esse gif porque a resiliência e determinação desse personagem me inspiram para eu seguir na busca da busca das minha realizações!
     </p>
 </div>
  &nbsp; 
