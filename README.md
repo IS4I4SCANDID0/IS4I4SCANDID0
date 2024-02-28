@@ -10,12 +10,14 @@
 
 Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando novas oportunidades. Estou aprimorando minhas habilidades em linguagens conhecidas e explorando novos frameworks. Meu objetivo é expandir meus conhecimentos e acompanhar as últimas tendências em TI. Um fato sobre mim tenho a música como hobbie, sou músico nas horas em que não estou escrvendo código. Para entrar em contato, envie um e-mail ou me adicione no LinkedIn. Rumo ao futuro da tecnologia! 🧑🏻‍💻🚀
 
+#
 <br>
 
 ### Principais skills
 
 
 Entre no universo das tecnologias que moldam o meu conhecimento. Este é um convite para explorar, aprender e se inspirar. Cada tecnologia aqui mencionada é um pilar que sustenta meu conhecimento e minha paixão por tecnologia e inovação. Cada uma delas representa um degrau que subi na escada do meu sucesso acadêmico e profissional, uma conquista que me orgulho de compartilhar!  
+
 
 <br>
 
@@ -53,6 +55,7 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 #### 🛠️ Versionamento e fluxo 
 <img height="28" src="https://img.shields.io/badge/Git-black?style=flat&logo=GIT&logoColor=f76707" /> &nbsp; <img height="28" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Gitflow-black?style=flat&logo=GIT&logoColor=f76707" >
 
+#
 <br>
 
 ### ⚙️ GitHub Analytics
@@ -85,9 +88,7 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 
 <br>
 
-
-  #
-  <br>
+#
   
 ### 🤔 Porque esse gif?
   <div align="center" height="380em">
@@ -95,7 +96,7 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
   </div>
   
 <div align="left" height="90em" width="90em"> 
-    <p>Assim como o personagem principal desse anime, não muito conhecido, o Gash Bell(ou Zatch Bell, como é chamado aqui no Brasil) eu tenho uma determinação inabalável e uma persistência incansável. Estou comprometido em alcançar meu potencial máximo e nunca desisto dos meus sonhos. Coloquei esse gif porque a resiliência e determinação desse personagem me inspiram para eu seguir na busca da busca das minha realizações!
+    <p>Assim como o personagem principal desse anime, não muito conhecido, o Gash Bell(ou Zatch Bell, como é chamado aqui no Brasil) eu tenho uma determinação inabalável e uma persistência incansável. Estou comprometido em alcançar meu potencial máximo e nunca desisto dos meus sonhos. Coloquei esse gif porque a resiliência e determinação desse personagem me inspiram para eu seguir na busca das minhas realizações!
     </p>
 </div>
  &nbsp; 
@@ -109,7 +110,20 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 <br>
 <br>
 <br>
+
+#
+
+### 🤝 Agradecimentos finais
+
+Agradeço a sua visita ao meu GitHub! Aqui, você encontrou projetos que refletiram minha paixão por resolver desafios complexos. Se você é um desenvolvedor e encontrou valor no meu trabalho, considere me seguir para se manter atualizado com minhas conquistas e progressos. Quero que saiba que valorizo a reciprocidade e, portanto, eu me comprometo a seguir de volta todos os desenvolvedores que me seguirem. Obrigado por chegar até o final e lido essa mensagem feita especialmente para você, que Deus abençoe a todos, e aos desenvolvedores desejo também uma excelente jornada de codificação! 
+
+
+<br>
+<br>
+<br>
+<br>
     <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" />
+
 
 
 <!--https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white
