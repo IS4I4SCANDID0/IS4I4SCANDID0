@@ -16,8 +16,12 @@ Sou um apaixonado por tecnologia, trabalhando em projetos pessoais e buscando no
 ### Principais skills
 
 
-Entre no universo das tecnologias que moldam o meu conhecimento. Este é um convite para explorar, aprender e se inspirar. Cada tecnologia aqui mencionada é um pilar que sustenta meu conhecimento e minha paixão por tecnologia e inovação. Cada uma delas representa um degrau que subi na escada do meu sucesso acadêmico e profissional, uma conquista que me orgulho de compartilhar!  
+Entre no universo das tecnologias que moldam o meu conhecimento. Este é um convite para explorar, aprender e se inspirar. Um fundamento sólido em lógica de programação, somado a cada tecnologia aqui mencionada são os pilares que sustentam meu conhecimento e minha paixão por tecnologia e inovação. Cada uma delas representa um degrau que subi na escada do meu sucesso acadêmico e profissional, uma conquista que me orgulho de compartilhar!  
 
+<br>
+
+#### 🛠️ Fundamentos 
+<img height="28" src="https://img.shields.io/badge/%F0%9F%A7%A0%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-101010?style=flat" /> &nbsp; <img height="28" src="https://img.shields.io/badge/%F0%9F%93%9A%20Aprendizado%20Cont%C3%ADnuo-101010?style=flat" />
 
 <br>
 
@@ -115,20 +119,11 @@ Aqui você pode ver as minha estatíticas somente com base meus repositórios p�
 
 ### 🤝 Agradecimentos finais
 
-Agradeço a sua visita ao meu GitHub! Aqui, você encontrou projetos que refletiram minha paixão por resolver desafios complexos. Se você é um desenvolvedor e encontrou valor no meu trabalho, considere me seguir para se manter atualizado com minhas conquistas e progressos. Quero que saiba que valorizo a reciprocidade e, portanto, eu me comprometo a seguir de volta todos os desenvolvedores que me seguirem. Obrigado por chegar até o final e lido essa mensagem feita especialmente para você, que Deus abençoe a todos, e aos desenvolvedores desejo também uma excelente jornada de codificação! 
+Agradeço a sua visita ao meu GitHub! Aqui, você encontrou projetos que refletirem minha paixão por resolver desafios complexos usando tecnonologia e lógica de programação. Se você é um desenvolvedor e encontrou valor no meu trabalho, considere me seguir para se manter atualizado com minhas conquistas e progressos. Quero que saiba que valorizo a reciprocidade e, portanto, eu me comprometo a seguir de volta todos os desenvolvedores que me seguirem. Obrigado por chegar até o final e lido essa mensagem feita especialmente para você, que Deus abençoe você e sua família, e se você for um desenvolvedor desejo também uma excelente jornada de codificação! 
 
 
 <br>
 <br>
 <br>
 <br>
-    <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" />
-
-
-
-<!--https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white
-https://img.shields.io/badge/Git-black?style=flat&logo=GIT&logoColor=f76707
-https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=Framer&logoColor=white -->
-
-
-
+    <a align="right" href="https://github.com/IS4I4SCANDID0"><img height="20" scr="https://img.shields.io/badge/GitHub-161616?style=flat&logo=github"></a> &nbsp; <img align="right" height="20" src="https://img.shields.io/badge/Made%20with-Markdown-000000.svg" />
