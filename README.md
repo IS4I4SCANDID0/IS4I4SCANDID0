@@ -26,7 +26,7 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 <br>
 
 #### 🛠️ Linguagens
-<img height="28" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F0DB4F" /> &nbsp; <img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=4B8BBE" />
+<img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> &nbsp; <img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp; <img height="28" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=4B8BBE" />
 
 <br>
 
