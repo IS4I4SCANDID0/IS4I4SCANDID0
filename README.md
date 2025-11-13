@@ -62,7 +62,7 @@ Entre no universo das tecnologias que moldam o meu conhecimento. Este é um conv
 #
 <br>
 
-### ⚙️ GitHub Analytics
+### 📈 GitHub Analytics
 Aqui você pode ver as minha estatíticas somente com base meus repositórios públicos. Lembrete estou consumindo uma API externa feita por terceiros então se o não estiver motrando as imagens corretamente por favor atualize a página. 
 
 
